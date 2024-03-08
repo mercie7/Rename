@@ -1,0 +1,7 @@
+For a better understanding I added a testing folder, in which you have a test sheet and some files to be renamed.
+Simply drag them into the main folder, start the Rename.exe and try it out :)
+
+# Copyright (C) 2024 mercie!
+# This program, "Rename," is the original creation of the author.
+# You are free to use, modify, and distribute it under the terms of the MIT License.
+# Your code starts here...
